@@ -1,1 +1,1 @@
-# GitTest
+# Quick Validation check
